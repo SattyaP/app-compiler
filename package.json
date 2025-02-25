@@ -1,0 +1,26 @@
+{
+  "name": "@sattyap/builder-project",
+  "version": "1.0.0",
+  "description": "an builder and obsfucate for electron project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SattyaP/app-compiler.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@sattyap"
+  },
+  "keywords": [
+    "builder",
+    "electron",
+    "obsfucate",
+    "closure",
+    "compiler"
+  ],
+  "author": "SattyaP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SattyaP/app-compiler/issues"
+  },
+  "homepage": "https://github.com/SattyaP/app-compiler#readme"
+}
